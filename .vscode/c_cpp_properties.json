@@ -3,9 +3,9 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\地凯公司\\项目代码\\7.11 16路成品代码优化DEMO\\Start",
-                "e:\\地凯公司\\项目代码\\7.11 16路成品代码优化DEMO\\User",
-                "e:\\地凯公司\\项目代码\\7.11 16路成品代码优化DEMO\\Library"
+                "e:\\地凯公司\\git\\Start",
+                "e:\\地凯公司\\git\\User",
+                "e:\\地凯公司\\git\\Library"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",

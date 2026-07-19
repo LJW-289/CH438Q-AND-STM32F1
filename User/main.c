@@ -3,7 +3,7 @@
 #include "modbus.h"
 #include "SP3485.h"
 #include "74HC595.h"  
-
+//666
 volatile uint32_t g_Tick = 0;
 
 int main(void)
